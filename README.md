@@ -84,33 +84,6 @@ Recommended Action
 
 ---
 
-## 📁 Project Structure
 
-```text
-AI-CyberShield/
-│
-├── frontend/
-├── backend/
-├── ai-engine/
-├── database/
-├── docs/
-├── .env.example
-├── .gitignore
-└── README.md
-```
 
----
 
-## 🚀 Getting Started
-
-### 1. Clone
-
-```bash
-git clone https://github.com/your-username/AI-CyberShield.git
-cd AI-CyberShield
-```
-
-### 2. Install Dependencies
-
-```bash
-```
